@@ -1,0 +1,44 @@
+{
+  "clientes": [
+    {
+      "nombre": "Saul",
+      "empresa": "Burgos & asosiados",
+      "email": "saulburgos6@gmail.com",
+      "telefono": "82975714096",
+      "notas": "haahahha",
+      "id": 4
+    },
+    {
+      "nombre": "jose",
+      "empresa": "burgos & asosiados",
+      "email": "osmait1997@gmail.com",
+      "telefono": "82975714096",
+      "notas": "prueba 2\n",
+      "id": 6
+    },
+    {
+      "nombre": "juan",
+      "empresa": "empresa",
+      "email": "saulburgos6@gmail.com",
+      "telefono": "82975714096",
+      "notas": "hahahah",
+      "id": 7
+    },
+    {
+      "nombre": "Jose saul ",
+      "empresa": "myb",
+      "email": "osmait1997@gmail.com",
+      "telefono": "82975714096",
+      "notas": "sasas",
+      "id": 8
+    },
+    {
+      "nombre": "juan",
+      "empresa": "byv",
+      "email": "osmait1997@gmail.com",
+      "telefono": "82975714096",
+      "notas": "asasa",
+      "id": 9
+    }
+  ]
+}
